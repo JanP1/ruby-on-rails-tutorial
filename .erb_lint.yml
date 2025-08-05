@@ -1,0 +1,5 @@
+linters:
+  HtmlClosingElement:
+    enabled: true
+  RuboCop:
+    enabled: true
